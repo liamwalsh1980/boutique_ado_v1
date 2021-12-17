@@ -291,20 +291,20 @@ input[name='q']::placeholder {
         height: calc(100vh - 116px);
     }
 
-    .display-4 .logo-font .text-black {
-        font-size: 2rem;
+    .display-4.logo-font.text-black {
+        font-size: 0.5rem;
     }
 
     .nav-link {
-        padding: 0.15rem;
+        padding: 0.10rem;
     }
 
     .nav-link i.fa-lg {
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
     .navbar-toggler {
-        padding: .6rem .6rem;
+        padding: .5rem .5rem;
         font-size: 1rem;
     }
 
