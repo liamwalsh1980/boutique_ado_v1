@@ -296,11 +296,12 @@ input[name='q']::placeholder {
     }
 
     .nav-link {
-        padding: 0.10rem;
+        padding: 0.08rem;
+        font-size: .8rem;
     }
 
     .nav-link i.fa-lg {
-        font-size: .9rem;
+        font-size: .8rem;
     }
 
     .navbar-toggler {
